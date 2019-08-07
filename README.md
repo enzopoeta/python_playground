@@ -1,2 +1,2 @@
 # python_playground
-estudos aleatórios c python
+testes e estudos aleatórios com python
